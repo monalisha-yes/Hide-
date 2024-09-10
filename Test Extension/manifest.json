@@ -3,7 +3,7 @@
     "name": "Test for PS",
     "version": "1.2",
     "description": "This is a test extention for Project Somi for testion purpose",
-    "author": "Pranav",
+    "author": "Monalisha",
     "content_scripts": [
         {
             "matches": ["https://*/*"],
